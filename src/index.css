@@ -1,0 +1,14 @@
+.navbar-nav {
+  transition: all 0.3s ease;
+}
+table th, table td {
+  vertical-align: middle !important;
+}
+  
+.table > *, .table td a, .table td button, .table td span {
+  font-size: 12px;
+}
+.freeze-table {
+  height: 300px;
+}
+  
